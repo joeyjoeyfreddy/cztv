@@ -11,7 +11,7 @@ https://sktv.plainrock127.xyz/get.php?x=CTart
 #EXTINF:-1 tvg-name="ČT sport Plus Ⓖ" tvg-logo="https://i.imgur.com/5JiMynW.png" tvg-id="" group-title="Czech Republic",ČT sport Plus 
 https://sktv.plainrock127.xyz/get.php?x=CTsportPlus
 #EXTINF:-1 tvg-name="TV Nova Ⓢ" tvg-logo="https://i.imgur.com/77ztmd9.png" tvg-id="tvnova.cz" group-title="Czech Republic",TV Nova 
-https://sktv.plainrock127.xyz/get.php?x=Nova
+https://nova-ott-live-avod-sec.ssl.cdn.cra.cz/LDtd9eHcWTq4vR2008HQug==,1735064341/channels/nova_avod/playlist/cze.m3u8
 #EXTINF:-1 tvg-name="Prima Ⓖ" tvg-logo="https://i.imgur.com/0aHT2Nj.png" tvg-id="Prima.cz" group-title="Czech Republic",Prima
 https://prima-ott-live-sec.ssl.cdn.cra.cz/yrYPEFemc_xPA0USUmEzqQ==,1735132163/channels/prima_family/playlist/cze/live_mq.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima Zoom Ⓖ" tvg-logo="https://i.imgur.com/zuzBucZ.png" tvg-id="PrimaZoom.cz" group-title="Czech Republic",Prima Zoom 
@@ -29,15 +29,15 @@ https://prima-ott-live-sec.ssl.cdn.cra.cz/tDTPV5ukoI_yqUMsgK3_1w==,1735133332/ch
 #EXTINF:-1 tvg-name="Prima Show Ⓖ" tvg-logo="https://i.imgur.com/zX4NTJ5.png" tvg-id="PrimaShow.cz" group-title="Czech Republic",Prima Show 
 https://prima-ott-live-sec.ssl.cdn.cra.cz/xK6kidQ7Wd3IZVcez5BYmg==,1735133354/channels/prima_show/playlist/cze/live_mq.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="TV Nova Ⓢ" tvg-logo="https://i.imgur.com/77ztmd9.png" tvg-id="tvnova.cz" group-title="Czech Republic",TV Nova Cinema
-https://sktv.plainrock127.xyz/get.php?x=NovaCinema
+https://nova-ott-live-avod-sec.ssl.cdn.cra.cz/HkXkpmMEICHTgJpG_TCjIw==,1735063648/channels/nova_cinema_avod/playlist/cze.m3u8
 #EXTINF:-1 tvg-name="TV Nova Ⓢ" tvg-logo="https://i.imgur.com/77ztmd9.png" tvg-id="tvnova.cz" group-title="Czech Republic",TV Nova Action
-https://sktv.plainrock127.xyz/get.php?x=NovaAction
+https://nova-ott-live-avod-sec.ssl.cdn.cra.cz/bKRK9bqDcKvCGqpkASo11g==,1735064418/channels/nova_action_avod/playlist/cze.m3u8
 #EXTINF:-1 tvg-name="TV Nova Ⓢ" tvg-logo="https://i.imgur.com/77ztmd9.png" tvg-id="tvnova.cz" group-title="Czech Republic",TV Nova Fun
-https://sktv.plainrock127.xyz/get.php?x=NovaFun
+https://nova-ott-live-avod-sec.ssl.cdn.cra.cz/cJiafHGsswNUmCYulq2aMg==,1735064411/channels/nova_2_avod/playlist/cze.m3u
 #EXTINF:-1 tvg-name="TV Nova Ⓢ" tvg-logo="https://i.imgur.com/77ztmd9.png" tvg-id="tvnova.cz" group-title="Czech Republic",TV Nova Gold
-https://sktv.plainrock127.xyz/get.php?x=NovaGold
+https://nova-ott-live-avod-sec.ssl.cdn.cra.cz/hNiCpF8886z1bEYGg5GNkQ==,1735064423/channels/nova_gold_avod/playlist/cze.m3u8
 #EXTINF:-1 tvg-name="TV Nova Ⓢ" tvg-logo="https://i.imgur.com/77ztmd9.png" tvg-id="tvnova.cz" group-title="Czech Republic",TV Nova Lady
-https://sktv.plainrock127.xyz/get.php?x=NovaLady
+https://nova-ott-live-avod-sec.ssl.cdn.cra.cz/SHIIDVkgAS0O4j-NoS-RQA==,1735064428/channels/nova_lady_avod/playlist/cze.m3u8
 #EXTINF:-1 tvg-name="Óčko Ⓢ" tvg-logo="https://i.imgur.com/iPmpsnN.png" tvg-id="Ocko.cz" group-title="Czech Republic",Óčko 
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 #EXTINF:-1 tvg-name="Óčko Star Ⓢ" tvg-logo="https://i.imgur.com/tGzQFWw.png" tvg-id="OckoStar.cz" group-title="Czech Republic",Óčko Star 
@@ -59,10 +59,10 @@ https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 #EXTINF:-1 tvg-name="UTV (Czech Republic)" tvg-logo="https://imgur.com/ulfeIwM.png" tvg-id="utv.cz" group-title="Czech Republic",UTV (Czech Republic)
 https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
 #EXTINF:-1 tvg-name="JOJ Family Ⓢ" tvg-logo="https://i.imgur.com/IZHIAAj.png" tvg-id="JojFamily.sk" group-title="Czech Republic",JOJ 
-https://sktv.plainrock127.xyz/get.php?x=JOJ
+https://live.cdn.joj.sk/live/andromeda/joj-1080.m3u8
 #EXTINF:-1 tvg-name="JOJ Family Ⓢ" tvg-logo="https://i.imgur.com/IZHIAAj.png" tvg-id="JojFamily.sk" group-title="Czech Republic",JOJ Plus
-https://sktv.plainrock127.xyz/get.php?x=JOJP
+https://live.cdn.joj.sk/live/andromeda/plus-1080.m3u8
 #EXTINF:-1 tvg-name="JOJ Family Ⓢ" tvg-logo="https://i.imgur.com/IZHIAAj.png" tvg-id="JojFamily.sk" group-title="Czech Republic",JOJ Wau
-https://sktv.plainrock127.xyz/get.php?x=Wau
+https://live.cdn.joj.sk/live/andromeda/wau-1080.m3u8
 #EXTINF:-1 tvg-name="JOJ Family Ⓢ" tvg-logo="https://i.imgur.com/IZHIAAj.png" tvg-id="JojFamily.sk" group-title="Czech Republic",JOJ 24
-https://sktv.plainrock127.xyz/get.php?x=JOJ24
+https://live.cdn.joj.sk/live/andromeda/joj_news-1080.m3u8
